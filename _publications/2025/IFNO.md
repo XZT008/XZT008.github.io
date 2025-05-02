@@ -2,7 +2,7 @@
 title:          "Invertible Fourier Neural Operators for Tackling Both Forward and Inverse Problems"
 date:           2025-01-21 00:01:00 +0800
 selected:       true
-pub:            "The 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)"
+pub:            "The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)"
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "2025"
 

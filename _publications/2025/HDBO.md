@@ -2,7 +2,7 @@
 title:          "Standard Gaussian Process is All You Need for High-Dimensional Bayesian Optimization"
 date:           2025-01-22 00:01:00 +0800
 selected:       true
-pub:            "The Thirteenth International Conference on Learning Representations (ICLR 2025)"
+pub:            "The Thirteenth International Conference on Learning Representations (ICLR)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "2025"
 

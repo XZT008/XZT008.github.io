@@ -2,7 +2,7 @@
 title:          "Toward Efficient Kernel-Based Solvers for Nonlinear PDEs"
 date:           2025-05-01 00:01:00 +0800
 selected:       true
-pub:            "Forty-second International Conference on Machine Learning (ICML 2025)"
+pub:            "Forty-second International Conference on Machine Learning (ICML)"
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "2025"
 
