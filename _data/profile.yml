@@ -22,8 +22,9 @@ github: XZT008
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I'm a first year PhD student at University of Utah, advised by Prof. <a href="https://users.cs.utah.edu/~zhe/" target="_blank">Shandian Zhe</a>.
-    My research interests are among probabilistic methods, Bayesian machine learning and generative models.
+    I'm a third year PhD student at University of Utah, advised by Prof. <a href="https://users.cs.utah.edu/~zhe/" target="_blank">Shandian Zhe</a>.
+    My research is on Gaussian processes and kernel methods, with a focus on structure-exploiting scalable inference,
+    Bayesian optimization and sequential decision making under uncertainty, and uncertainty quantification.
   </p>
 
 #portrait_url: /assets/images/photos/portrait.jpg
@@ -47,10 +48,19 @@ education:
   date: Aug. 2016 - May. 2020
 
 experience:
+- name: Origami Robotics
+  # logo: /assets/images/badges/origami.png
+  dept: San Francisco, CA
+  position: Research Scientist, Robotics
+  date: June. 2026 - Aug. 2026
+  description: >-
+    Built a robust controller combining motion re-targeting with reinforcement learning,
+    reaching 99.7% success on a bi-manual dexterous assembly benchmark where published
+    methods were near 5%; distilled it into a small vision-only policy retaining 96.6%.
 - name: Microsoft (STCA)
   logo: /assets/images/badges/ms.png
   position: SE Intern
-  date: June. 2023 - Aug. 2021
+  date: June. 2023 - Aug. 2023
 
 #awards:
 #- name: Award Name 2
