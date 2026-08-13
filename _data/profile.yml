@@ -53,10 +53,6 @@ experience:
   dept: San Francisco, CA
   position: Research Scientist, Robotics
   date: June. 2026 - Aug. 2026
-  description: >-
-    Built a robust controller combining motion re-targeting with reinforcement learning,
-    reaching 99.7% success on a bi-manual dexterous assembly benchmark where published
-    methods were near 5%; distilled it into a small vision-only policy retaining 96.6%.
 - name: Microsoft (STCA)
   logo: /assets/images/badges/ms.png
   position: SE Intern
